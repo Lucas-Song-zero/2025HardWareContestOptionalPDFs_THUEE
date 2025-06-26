@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "e36b3421be9ce08b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f76f8c94d7db2056",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7685e26e1c646dcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MAGA/网络基础知识和8266实战.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "网络基础知识和8266实战"
+            }
+          }
+        ]
+      },
+      {
+        "id": "eb3cb2eb882a6b80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "abf0c758cbfdfd64",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cacbd31ce34c0ce7",
+    "type": "split",
+    "children": [
+      {
+        "id": "990c62fd45ba5ecc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0c615cc787a93f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "7e5916a3e570d5c6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "4a627124dc33a79f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "92f6d22bf38381b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "0148e139e7936a5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51ad90cd86536254",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MAGA/网络基础知识和8266实战.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "网络基础知识和8266实战 的反向链接列表"
+            }
+          },
+          {
+            "id": "4a48fd7ae2564369",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MAGA/网络基础知识和8266实战.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "网络基础知识和8266实战 的出链列表"
+            }
+          },
+          {
+            "id": "78b6b4aca94d6c73",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "4db44d95a327efdd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MAGA/网络基础知识和8266实战.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "网络基础知识和8266实战 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "d0c615cc787a93f1",
+  "lastOpenFiles": [
+    "MAGA/PCB设计打板基础和焊接技术进阶.md",
+    "MAGA/网络基础知识和8266实战.md",
+    "欢迎.md",
+    "MAGA/wifi_img/微信图片_20250626185721.jpg",
+    "MAGA/wifi_img/微信图片_20250626185717.jpg",
+    "MAGA/wifi_img/微信图片_20250625203501.png",
+    "MAGA/wifi_img/微信图片_20250625084944.png",
+    "MAGA/wifi_img/Pasted image 20250625003425.png",
+    "MAGA/wifi_img/Pasted image 20250625124538.png",
+    "MAGA/wifi_img/Pasted image 20250625123059.png",
+    "MAGA/wifi_img/Pasted image 20250625003135.png",
+    "MAGA/wifi_img/Pasted image 20250624173926.png",
+    "MAGA/wifi_img/Pasted image 20250624171044.png",
+    "MAGA/wifi_img",
+    "MAGA/pcb_img",
+    "MAGA"
+  ]
+}
