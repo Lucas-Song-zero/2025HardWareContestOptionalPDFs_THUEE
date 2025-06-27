@@ -4,37 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f76f8c94d7db2056",
+        "id": "d9b022ee234c155e",
         "type": "tabs",
         "children": [
           {
-            "id": "7685e26e1c646dcb",
+            "id": "8b3d061e7b644bb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MAGA/网络基础知识和8266实战.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "网络基础知识和8266实战"
-            }
-          }
-        ]
-      },
-      {
-        "id": "eb3cb2eb882a6b80",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "abf0c758cbfdfd64",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "title": "README"
             }
           }
         ]
@@ -110,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MAGA/网络基础知识和8266实战.md",
+                "file": "PDFs/网络基础知识和8266实战.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,21 +142,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MAGA/网络基础知识和8266实战.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "网络基础知识和8266实战 的大纲"
+              "title": "README 的大纲"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,14 +165,20 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "d0c615cc787a93f1",
   "lastOpenFiles": [
+    "root_imgs/Pasted image 20250627114323.png",
+    "root_imgs/Pasted image 20250627114221.png",
+    "root_imgs",
+    "root_imgs/Pasted image 20250627113118.png",
+    "PDFs/网络基础知识和8266实战.md",
     "MAGA/PCB设计打板基础和焊接技术进阶.md",
     "MAGA/网络基础知识和8266实战.md",
-    "欢迎.md",
+    "README.md",
     "MAGA/wifi_img/微信图片_20250626185721.jpg",
     "MAGA/wifi_img/微信图片_20250626185717.jpg",
     "MAGA/wifi_img/微信图片_20250625203501.png",
@@ -197,8 +187,6 @@
     "MAGA/wifi_img/Pasted image 20250625124538.png",
     "MAGA/wifi_img/Pasted image 20250625123059.png",
     "MAGA/wifi_img/Pasted image 20250625003135.png",
-    "MAGA/wifi_img/Pasted image 20250624173926.png",
-    "MAGA/wifi_img/Pasted image 20250624171044.png",
     "MAGA/wifi_img",
     "MAGA/pcb_img",
     "MAGA"
