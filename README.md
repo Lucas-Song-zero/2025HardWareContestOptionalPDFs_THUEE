@@ -13,8 +13,8 @@
 我觉得中间去主楼焊接实验室值班、帮忙发放套件，晚上去听必修部分讲课内容，以及和同学们一块吃饭交流都极大的缓解了我的压力，不然我感觉我的情绪早就要💥了。
 
 最后也非常感谢Musicals，从期末复习就一直在听各种音乐剧和歌舞剧，比如[《莫里哀》](https://www.bilibili.com/video/BV14ERjYTEH1/?spm_id_from=333.337.search-card.all.click&vd_source=74968f6e1742f0bfe5b63da7000daca0)、[《巴黎圣母院》](https://www.bilibili.com/video/BV1Gt421a7t6/?spm_id_from=333.337.search-card.all.click&vd_source=74968f6e1742f0bfe5b63da7000daca0)(尤其是中间去看了一场线下的演出，实在太幸运了）、[《Hamilton》](https://www.bilibili.com/video/BV1Da411S7pq/?spm_id_from=333.337.search-card.all.click&vd_source=74968f6e1742f0bfe5b63da7000daca0)、[《雨中曲》](https://www.bilibili.com/video/BV1Pi4y1s7Rx/?spm_id_from=333.337.search-card.all.click&vd_source=74968f6e1742f0bfe5b63da7000daca0)，这些优美的旋律极大的提振了我的心情。
-![](Pasted%20image%2020250627113118.png)
+![](/root_imgs/Pasted%20image%2020250627113118.png)
 
-![](Pasted%20image%2020250627114221.png)
+![](/root_imgs/Pasted%20image%2020250627114221.png)
 
-![](Pasted%20image%2020250627114323.png)
+![](/root_imgs/Pasted%20image%2020250627114323.png)
