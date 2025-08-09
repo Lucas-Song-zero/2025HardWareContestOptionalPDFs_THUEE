@@ -1,5 +1,5 @@
-本文由宋宣增在2025/6/21在 [Obsidian](https://obsidian.md/) 中完成。结合Table of Contents和Better ExportPDF插件
-Copyright © 2025 XuanZeng Song
+本文由[Lucas-Song (Lucas Song)](https://github.com/Lucas-Song-zero)在2025/6/21在 [Obsidian](https://obsidian.md/) 中完成。结合Table of Contents和Better ExportPDF插件
+Copyright © 2025 [Lucas-Song-zero (Lucas Song)](https://github.com/Lucas-Song-zero)
 This article is licensed under the MIT License.
 
 # Table of Contents
@@ -125,7 +125,7 @@ PS：如果你对这个封装的引脚定义不是很熟悉，可以从网上找
 
 ![alt text](image-9.png)
 （你是否还记得glgg如何分析这741电路的?Doge）
-  
+
 OK，我们找到了想要的元器件，现在如何在立创EDA中使用它呢？很简单，找到“商品编号”，复制这个“C7111”到EDA红色框选中的界面中的搜索栏（忘记了可以看上面的那张图），就可以看到找到了UA741CDT这个元器件了。
 ![alt text](image-10.png)
 
